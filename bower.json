@@ -1,0 +1,25 @@
+{
+  "name": "react-spotify-search",
+  "description": "simple web app for iTunes search with React",
+  "main": "index.js",
+  "authors": [
+    "Joao Manoel Lins"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "browserify",
+    "ES6",
+    "learning",
+    "spotify"
+  ],
+  "homepage": "https://github.com/JoaoManoel/react-spotify-search",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
